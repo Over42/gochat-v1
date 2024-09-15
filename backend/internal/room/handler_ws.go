@@ -1,7 +1,7 @@
 package room
 
 import (
-	"gochat/config"
+	"gochatv1/config"
 
 	"net/http"
 

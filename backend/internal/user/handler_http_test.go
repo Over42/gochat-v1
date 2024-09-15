@@ -1,10 +1,10 @@
 package user_test
 
 import (
-	"gochat/config"
-	"gochat/db"
-	"gochat/internal/user"
-	"gochat/router"
+	"gochatv1/config"
+	"gochatv1/db"
+	"gochatv1/internal/user"
+	"gochatv1/router"
 
 	"bytes"
 	"encoding/json"

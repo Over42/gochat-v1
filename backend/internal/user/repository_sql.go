@@ -3,6 +3,7 @@ package user
 import (
 	"context"
 	"database/sql"
+	"net/http"
 )
 
 // Makes possible to inject DB connection (in prod) or Tx transaction (in tests)
@@ -27,6 +28,8 @@ func (r *repository) CreateUser(ctx context.Context, user *User) (*User, error) 
 	if err != nil {
 		return nil, err
 	}
+
+	http.Error(ctx.)
 
 	return user, nil
 }

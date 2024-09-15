@@ -1,11 +1,11 @@
 package main
 
 import (
-	"gochat/config"
-	"gochat/db"
-	"gochat/internal/room"
-	"gochat/internal/user"
-	"gochat/router"
+	"gochatv1/config"
+	"gochatv1/db"
+	"gochatv1/internal/room"
+	"gochatv1/internal/user"
+	"gochatv1/router"
 
 	"log"
 

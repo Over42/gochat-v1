@@ -1,4 +1,4 @@
-module gochat
+module gochatv1
 
 go 1.20
 

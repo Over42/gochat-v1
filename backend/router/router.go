@@ -1,9 +1,9 @@
 package router
 
 import (
-	"gochat/config"
-	"gochat/internal/room"
-	"gochat/internal/user"
+	"gochatv1/config"
+	"gochatv1/internal/room"
+	"gochatv1/internal/user"
 
 	"time"
 

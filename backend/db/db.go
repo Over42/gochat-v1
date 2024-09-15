@@ -1,7 +1,7 @@
 package db
 
 import (
-	"gochat/config"
+	"gochatv1/config"
 
 	"database/sql"
 

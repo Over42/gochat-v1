@@ -1,9 +1,9 @@
 package user_test
 
 import (
-	"gochat/config"
-	"gochat/db"
-	"gochat/internal/user"
+	"gochatv1/config"
+	"gochatv1/db"
+	"gochatv1/internal/user"
 
 	"context"
 	"testing"

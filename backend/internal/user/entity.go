@@ -1,7 +1,7 @@
 package user
 
 import (
-	"gochat/config"
+	"gochatv1/config"
 
 	"context"
 
